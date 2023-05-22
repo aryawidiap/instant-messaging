@@ -1,0 +1,5 @@
+package messageObject;
+
+public class Message {
+
+}
